@@ -77,7 +77,7 @@ export default function IngredientsInput({
       <div className="flex gap-2">
         <Input
           id="ingredient"
-          placeholder="e.g., chicken, tomato, rice"
+          placeholder="e.g., chicken, tomato"
           value={value}
           onChange={(e) => setValue(e.target.value)}
           onKeyDown={(e) => {
@@ -113,7 +113,7 @@ export default function IngredientsInput({
       ) : null}
 
       {onSubmit ? (
-        <div className="text-right">
+        <div className="text-center">
           <Button type="button" onClick={onSubmit} disabled={ingredients.length === 0 || isLoading}>
             {isLoading ? "Generating..." : "Suggest recipes"}
           </Button>

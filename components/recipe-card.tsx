@@ -15,9 +15,9 @@ type Recipe = {
 
 export default function RecipeCard({ recipe }: { recipe: Recipe }) {
   return (
-    <Card className="overflow-hidden">
+    <Card className="overflow-hidden backdrop-blur-lg bg-white/20 border border-white/30 shadow-lg rounded-2xl p-6">
       <CardHeader>
-        <CardTitle className="text-xl">{recipe.title}</CardTitle>
+        <CardTitle className="text-xl text-[color:var(--text-heading)]">{recipe.title}</CardTitle>
       </CardHeader>
       <CardContent className="space-y-3">
         {recipe.description ? <p className="text-sm text-muted-foreground">{recipe.description}</p> : null}

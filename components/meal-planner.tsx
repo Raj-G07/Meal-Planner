@@ -75,14 +75,14 @@ export default function MealPlanner() {
   return (
     <div className="grid gap-6">
       {/* Left Panel: Copilot */}
-      <Card className="md:col-span-1">
+      <Card className="md:col-span-1 backdrop-blur-lg bg-white/20 border border-white/30 shadow-lg rounded-2xl p-6">
         <CardHeader>
           <CardTitle className="text-lg">CopilotKit</CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           <div className="space-y-3">
             <div className="space-y-2">
-              <div className="text-sm font-medium">Current ingredients</div>
+              <div className="text-sm font-medium text-[color:var(--text-accent)]">Current ingredients</div>
               <div
                 className={cn(
                   "flex flex-wrap gap-2",
@@ -124,17 +124,17 @@ export default function MealPlanner() {
       {/* Right Panel: Results */}
       <div className="md:col-span-2 space-y-4">
         {!hasRecipes && !loading? (
-          <Card>
-            <CardContent className="py-10 text-center text-muted-foreground">
+          <Card className="backdrop-blur-lg bg-white/20 border border-white/30 shadow-lg rounded-2xl p-6">
+            <CardContent className="py-10 text-center text-muted-foreground text-[color:var(--text-muted)]">
               Add ingredients and click “Suggest recipes” to see ideas here.
             </CardContent>
           </Card>
         ) : null}
 
         {loading ? (
-          <div className="grid gap-4 sm:grid-cols-2">
+          <div className="grid gap-4 sm:grid-cols-2 ">
             {[0, 1, 2, 3].map((i) => (
-              <Card key={i} className="animate-pulse">
+              <Card key={i} className="animate-pulse ">
                 <CardHeader>
                   <div className="h-5 w-2/3 bg-muted rounded" />
                 </CardHeader>
@@ -156,12 +156,11 @@ export default function MealPlanner() {
           </div>
         ) : null}
       </div>
-
       <CopilotPopup
         instructions={system}
         labels={{
-          title: "Meal Planner Assistant",
-          initial: "Need any help?",
+          title: "🍽️ Assistant",
+          initial: "Need  help planning your meals?",
         }}
       />
     </div>

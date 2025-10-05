@@ -9,7 +9,10 @@ import { Suspense } from "react"
 
 export const metadata: Metadata = {
   title: "Meal Planner App",
-  description: "Created with Copilot Kit Ui with Direct LLM"
+  description: "Created with Copilot Kit Ui with Direct LLM",
+  icons: {
+    icon: "/MealPlanner2.0.png"
+  }
 }
 
 export default function RootLayout({
