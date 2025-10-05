@@ -77,7 +77,7 @@ export default function MealPlanner() {
       {/* Left Panel: Copilot */}
       <Card className="md:col-span-1 backdrop-blur-lg bg-white/20 border border-white/30 shadow-lg rounded-2xl p-6">
         <CardHeader>
-          <CardTitle className="text-lg">CopilotKit</CardTitle>
+          <CardTitle className="text-lg">CopilotKit 🪁</CardTitle>
         </CardHeader>
         <CardContent className="space-y-4">
           <div className="space-y-3">
