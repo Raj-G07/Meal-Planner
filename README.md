@@ -13,6 +13,8 @@ It allows users to **add ingredients manually or via AI instructions**, and then
 - ⚡ **Instant Recipe Cards** – Automatically displayed as visually appealing recipe cards.
 - 🌐 Built with **Next.js + React + Tailwind CSS**, powered by **Copilot Cloud LLM Runtime**.
 
+## Screenshots
+<img width="1348" height="598" alt="Screenshot 2025-10-05 202245" src="https://github.com/user-attachments/assets/56739ccf-3d23-42ad-a8a9-146e49df78bd" />
 
 ## 🧩 Recipe JSON Schema
 
@@ -30,7 +32,6 @@ Each AI-generated recipe follows this exact schema for consistency:
   "calories": 0
 }
 ```
----
 
 ## 🏗️ Tech Stack
 
@@ -41,7 +42,6 @@ Each AI-generated recipe follows this exact schema for consistency:
 | UI Components | `@copilotkit/react-ui` |
 | LLM Model | OpenAI `gpt-4o-mini` (configurable) |
 
----
 
 ## 📦 Installation
 
