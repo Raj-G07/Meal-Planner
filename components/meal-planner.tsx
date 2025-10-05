@@ -51,7 +51,10 @@ export default function MealPlanner() {
     description: "The list of ingredients currently available.",
     value: ingredients.join(", "),
   });
-
+  useCopilotReadable({
+    description: "The list of recipes generated based on the current ingredients.",
+    value: hasRecipes ? recipes!.map((r) => r.title).join(", ") : "No recipes generated yet"
+  })
   useCopilotAction({
     name: "suggestRecipes",
     description: "Suggest recipes based on the user's current ingredients. Call this action when the user asks for recipe ideas or wants to see what they can cook.",
