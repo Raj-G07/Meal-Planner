@@ -26,6 +26,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Lingo.dev generated files
-src/lingo/dictionary.js
-src/lingo/meta.json
+
