@@ -1,8 +1,7 @@
 # 🥗 AI Meal Planner
 
-An intelligent **Meal Planner and Recipe Generator** built with **Next.js**, **CopilotKit UI**, and **Copilot Cloud Runtime** and **Lingo.dev multilingual support**.  
-It allows users to **add ingredients manually or via AI instructions**, and then generates **3–5 smart recipes** instantly. Each with detailed steps, time, calories, and tags.
-All localized across multiple languages
+An intelligent **Meal Planner and Recipe Generator** built with **Next.js**, **CopilotKit UI**, **Copilot Cloud Runtime** and **Lingo.dev multilingual support**.  
+The app allows users to **add ingredients manually or via AI**, then generates **3–5 smart recipes** instantly , complete with time, calories, & tags , all localized across multiple languages.
 
 ## 🚀 Features
 
