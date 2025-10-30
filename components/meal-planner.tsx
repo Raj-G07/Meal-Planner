@@ -125,7 +125,7 @@ export default function MealPlanner() {
       <div className="md:col-span-2 space-y-4">
         {!hasRecipes && !loading? (
           <Card className="backdrop-blur-lg bg-white/20 border border-white/30 shadow-lg rounded-2xl p-6">
-            <CardContent className="py-10 text-center text-muted-foreground text-[color:var(--text-muted)]">
+            <CardContent className="py-10 text-center text-[color:var(--text-muted)]">
               Add ingredients and click “Suggest recipes” to see ideas here.
             </CardContent>
           </Card>

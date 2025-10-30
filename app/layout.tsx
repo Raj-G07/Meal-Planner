@@ -2,6 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
+import { LingoProvider, loadDictionary } from "lingo.dev/react/rsc";
 import "./globals.css"
 import { CopilotKit } from "@copilotkit/react-core"
 import "@copilotkit/react-ui/styles.css"
@@ -22,6 +23,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <LingoProvider loadDictionary={(locale) => loadDictionary(locale)}>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
         <Suspense fallback={null}>
           <CopilotKit publicApiKey={process.env.COPILOT_CLOUD_PUBLIC_API_KEY}>
@@ -29,6 +31,7 @@ export default function RootLayout({
           </CopilotKit>
         </Suspense>
       </body>
+    </LingoProvider>
     </html>
   )
 }
