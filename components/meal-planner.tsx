@@ -32,7 +32,7 @@ export default function MealPlanner() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const hasRecipes = (recipes?.length ?? 0) > 0;
-  const onSubmitHandler = async ({ ingredients: userIngredients }) => {
+  const onSubmitHandler = async ({ ingredients: userIngredients } : { ingredients: string[]; }) => {
      setIngredients(userIngredients);
      setError(null);
      setLoading(true);
