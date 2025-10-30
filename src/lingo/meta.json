@@ -1,0 +1,425 @@
+{
+  "version": 0.1,
+  "files": {
+    "../app/page.tsx": {
+      "scopes": {
+        "1/declaration/body/0/argument/1/1/1-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "1/declaration/body/0/argument/1/1/3": {
+          "type": "element",
+          "hash": "ffa010e3b63b1a4d3f44b0fc2eb3e4aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "1/declaration/body/0/argument/1/1/3/1/1/3-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "1/declaration/body/0/argument/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "fb2ce2dcc0d41d6eedb206cd25f7c168",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "1/declaration/body/0/argument/1/1/3/1/3/3": {
+          "type": "element",
+          "hash": "5ebda9545056b7615f50f9e4d47a1131",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI-Powered Recipe Discovery"
+        },
+        "1/declaration/body/0/argument/1/1/7/1": {
+          "type": "element",
+          "hash": "00dea5ab7a49a5badad217781681725d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "1/declaration/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/1/1/1-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "2/declaration/body/0/argument/1/1/3": {
+          "type": "element",
+          "hash": "227a50f6650c92dcbddc73b4147e861d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "<element:div><element:div><element:div></element:div><element:img></element:img></element:div><element:div><element:h1>Meal Planner</element:h1><element:p>AI-Powered Recipe Discovery</element:p></element:div></element:div>\" locales=<expression/> />"
+        },
+        "2/declaration/body/0/argument/1/1/3-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "2/declaration/body/0/argument/1/1/3/1/1/3-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "2/declaration/body/0/argument/1/1/3/1/3/1": {
+          "type": "element",
+          "hash": "fb2ce2dcc0d41d6eedb206cd25f7c168",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "2/declaration/body/0/argument/1/1/3/1/3/3": {
+          "type": "element",
+          "hash": "5ebda9545056b7615f50f9e4d47a1131",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI-Powered Recipe Discovery"
+        },
+        "2/declaration/body/0/argument/1/1/5": {
+          "type": "element",
+          "hash": "ffa010e3b63b1a4d3f44b0fc2eb3e4aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "2/declaration/body/0/argument/1/1/7/1": {
+          "type": "element",
+          "hash": "00dea5ab7a49a5badad217781681725d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/1/3": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/1/5": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/3/11/1": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/3/3/1-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "2/declaration/body/0/argument/3/3/1/1-alt": {
+          "type": "attribute",
+          "hash": "a4fe5f5611a3a0854b5ad0ff1574b3c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner Logo"
+        },
+        "2/declaration/body/0/argument/3/3/1/3/1": {
+          "type": "element",
+          "hash": "ffa010e3b63b1a4d3f44b0fc2eb3e4aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "2/declaration/body/0/argument/3/3/1/3/3": {
+          "type": "element",
+          "hash": "7f777ec3190ed0eecb0b689a8aae726e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI-Powered Recipe Discovery"
+        },
+        "2/declaration/body/0/argument/3/3/3": {
+          "type": "element",
+          "hash": "2588961a07e4f9d733972b93f0f29f8c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "2/declaration/body/0/argument/3/3/3/1": {
+          "type": "element",
+          "hash": "ffa010e3b63b1a4d3f44b0fc2eb3e4aa",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Meal Planner"
+        },
+        "2/declaration/body/0/argument/3/3/3/3": {
+          "type": "element",
+          "hash": "7f777ec3190ed0eecb0b689a8aae726e",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "AI-Powered Recipe Discovery"
+        },
+        "2/declaration/body/0/argument/3/3/5/1": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/3/5/1": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/3/7": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/3/7/1": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        },
+        "2/declaration/body/0/argument/3/9": {
+          "type": "element",
+          "hash": "0892bf93e09ee3dfb08628a1cfe642ef",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Enter ingredients you have on hand. The copilot will suggest recipes"
+        }
+      }
+    },
+    "../components/CustomeLocaleSwitcher.tsx": {
+      "scopes": {
+        "1/body/1/argument/1/1": {
+          "type": "element",
+          "hash": "e1eeeb379f86a015d6e581fcbc4af7f3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "English"
+        },
+        "1/body/1/argument/1/3": {
+          "type": "element",
+          "hash": "881640609abd94ca50cbafb21f085042",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Spanish"
+        },
+        "1/body/1/argument/1/5": {
+          "type": "element",
+          "hash": "1e23c97d063f7235e94e00517f1786c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "German"
+        },
+        "1/body/1/argument/1/7": {
+          "type": "element",
+          "hash": "b6c77a4e718a978af58895b27731413c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "French"
+        },
+        "1/declaration/body/1/argument/1/1": {
+          "type": "element",
+          "hash": "e1eeeb379f86a015d6e581fcbc4af7f3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "English"
+        },
+        "1/declaration/body/1/argument/1/3": {
+          "type": "element",
+          "hash": "881640609abd94ca50cbafb21f085042",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Spanish"
+        },
+        "1/declaration/body/1/argument/1/5": {
+          "type": "element",
+          "hash": "1e23c97d063f7235e94e00517f1786c2",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "German"
+        },
+        "1/declaration/body/1/argument/1/7": {
+          "type": "element",
+          "hash": "b6c77a4e718a978af58895b27731413c",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "French"
+        }
+      }
+    },
+    "../components/ingredients-input.tsx": {
+      "scopes": {
+        "6/declaration/body/6/argument/1": {
+          "type": "element",
+          "hash": "ae41cf540db2acbe0b16af6dacd8539d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Add ingredient"
+        },
+        "6/declaration/body/6/argument/3/1-placeholder": {
+          "type": "attribute",
+          "hash": "2facbdcc25b2f7d1590e4117212c42ec",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "e.g., chicken, tomato"
+        },
+        "6/declaration/body/6/argument/3/3": {
+          "type": "element",
+          "hash": "9081385cc2220e7a618fd5a7e5224a6b",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Add"
+        }
+      }
+    },
+    "../components/meal-planner.tsx": {
+      "scopes": {
+        "11/declaration/body/9/argument/3/1/1": {
+          "type": "element",
+          "hash": "6aa58b2245afc8d505df4e76fb29cb4d",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "CopilotKit 🪁"
+        },
+        "11/declaration/body/9/argument/3/3/1/1/1": {
+          "type": "element",
+          "hash": "ae0106102137047ce10d5fd8ac72a3c1",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Current ingredients"
+        },
+        "11/declaration/body/9/argument/3/3/1/1/3/1/expression/consequent": {
+          "type": "element",
+          "hash": "315f5a03b9ff4800a36bd46798f014a7",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "No ingredients yet"
+        },
+        "11/declaration/body/9/argument/7/1/expression/consequent/1": {
+          "type": "element",
+          "hash": "126b77808d1cfe91e09b5e40093504fe",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Add ingredients and click “Suggest recipes” to see ideas here."
+        }
+      }
+    },
+    "../components/recipe-card.tsx": {
+      "scopes": {
+        "3/declaration/body/0/argument/3/3/1": {
+          "type": "element",
+          "hash": "1ecb0758b7a2fcab1791674e2f781bee",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{recipe.timeMinutes} min"
+        },
+        "3/declaration/body/0/argument/3/3/3": {
+          "type": "element",
+          "hash": "b0865822f5f6dfdea5214fef37d92897",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "{recipe.calories} kcal"
+        },
+        "3/declaration/body/0/argument/3/5/1": {
+          "type": "element",
+          "hash": "0cbdb3ac415d767c2d824c3a6db5d598",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Uses"
+        },
+        "3/declaration/body/0/argument/3/7/expression/consequent/1": {
+          "type": "element",
+          "hash": "99d83b44a23ca408f578aac44dbcc2b3",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Might need"
+        },
+        "3/declaration/body/0/argument/3/9/1": {
+          "type": "element",
+          "hash": "12d58a289584cb648103d66b327ae833",
+          "context": "",
+          "skip": false,
+          "overrides": {},
+          "content": "Steps"
+        }
+      }
+    }
+  }
+}
